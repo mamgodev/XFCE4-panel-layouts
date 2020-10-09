@@ -9,19 +9,19 @@ The reason why I'm creating this is because I want to contribute to xfce but I d
 
 ## Layouts
 
-1. GNOME2
+## 1. GNOME2
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/GNOME2/GNOME2-1.png?raw=true)
 
 Tries to mimic Gnome2 layout, maybe I'll add some alternatives like the Ubuntu used without the System, not sure.
 
-2. Unity
+## 2. Unity
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/Unity/Unity.png?raw=true)
 
 Tries to mimic the Unity style, doesn't include a menu like unity did or has global-menu/window buttons on the top panel. Maybe in the future.
 
-3. W10
+## 3. W10
 
 Maybe I should change the name?
 
@@ -29,10 +29,23 @@ Maybe I should change the name?
 
 Tries to mimic a W10 style. Simple.
 
-4. WXP
+## 4. WXP
 
 Maybe I should change the name?
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/WXP/WXP-1.png?raw=true)
 
 Tries to mimic the good old WXP style.
+
+## TODO
+
+1. Need to add the plugins necessary for the layout to work.
+2. Add more layouts like:
+  - Mac?
+  - Elementary?
+  - Custom?
+3. Make some tweaks to the layouts.
+4. GUI for layouts, (installs, updates, apply custom icons/GTK themes?)
+  - Example: https://github.com/QaldeK/geox-tweak-xfce
+
+# IF YOU HAVE ANY SUGGESTION LIKE NEW LAYOUTS PLEASE TELL ME :)
