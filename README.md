@@ -37,6 +37,16 @@ Maybe I should change the name?
 
 Tries to mimic the good old WXP style.
 
+## [NEW] 5. Macish 
+
+Maybe I should change the name?
+
+Tries to mimic a macOs style.
+
+In order to work you need:
+ - Plank for the dock or any other alternative like DockbarX/Docklike Taskbar (you will need to add a new panel at the bottom, if need help ask me).
+ 
+
 ## TODO
 
 1. Need to add the plugins necessary for the layout to work.
