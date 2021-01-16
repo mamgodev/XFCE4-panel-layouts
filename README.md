@@ -15,11 +15,14 @@ The reason why I'm creating this is because I want to contribute to xfce but I d
 
 Tries to mimic Gnome2 layout, maybe I'll add some alternatives like the Ubuntu used without the System, not sure.
 
-## 2. Unity
+## [UPDATED] 2. Unity
 
-![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/Unity/Unity.png?raw=true)
+![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/Unity/unity-1.png?raw=true)
 
 Tries to mimic the Unity style, doesn't include a menu like unity did or has global-menu/window buttons on the top panel. Maybe in the future.
+
+In order to work you need:
+ - Docklike Taskbar (https://github.com/nsz32/docklike-plugin)
 
 ## 3. W10
 
