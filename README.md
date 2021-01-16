@@ -37,11 +37,11 @@ Maybe I should change the name?
 
 Tries to mimic the good old WXP style.
 
-## [NEW] 5. Macish 
+## [NEW] 5. ElementaryOs style
 
-Maybe I should change the name?
+![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/elementary/elementary-1.png?raw=true)
 
-Tries to mimic a macOs style.
+Tries to mimic the elementaryOs style.
 
 In order to work you need:
  - Plank for the dock or any other alternative like DockbarX/Docklike Taskbar (you will need to add a new panel at the bottom, if need help ask me).
@@ -52,7 +52,7 @@ In order to work you need:
 1. Need to add the plugins necessary for the layout to work.
 2. Add more layouts like:
   - Mac?
-  - Elementary?
+  - ~~Elementary?~~
   - Custom?
 3. Make some tweaks to the layouts.
 4. GUI for layouts, (installs, updates, apply custom icons/GTK themes?)
