@@ -6,8 +6,8 @@ Layouts configurations for XFCE4 (4.16).
 The reason why I'm creating this is because I want to contribute to xfce but I don't know how to code yet*, so I though this would be a good idea to contribute, also I like to customize and xfce offers this, so why not use it?
 
 # READ
-# SOME LAYOUTS MAY NEED TO HAVE SOME XFCE PLUGINS.
-# HAVEN'T TEST IT IN ANOTHER COMPUTER SO THEY MIGHT NOT WORK CORRECTLY, IF YOU HAVE ANY PROBLEM CONTACT ME.
+- SOME LAYOUTS NEED TO HAVE SOME XFCE PLUGINS.
+- HAVEN'T TEST IT IN ANOTHER COMPUTER SO THEY MIGHT NOT WORK CORRECTLY, IF YOU HAVE ANY PROBLEM CONTACT ME.
 
 ## Layouts
 
@@ -62,9 +62,10 @@ Note: You may need to add plank to the startup
 1. Add more layouts like:
   - Mac?
   - Custom?
+
 Not sure
 
-3. GUI for layouts, (installs, updates, apply custom icons/GTK themes?)
+2. GUI for layouts, (installs, updates, apply custom icons/GTK themes?)
   - Example: https://github.com/QaldeK/geox-tweak-xfce
 
 ## DONE
