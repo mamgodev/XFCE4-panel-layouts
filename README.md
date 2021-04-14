@@ -6,6 +6,7 @@ Layouts configurations for XFCE4 (4.16).
 The reason why I'm creating this is because I want to contribute to xfce but I don't know how to code yet*, so I though this would be a good idea to contribute, also I like to customize and xfce offers this, so why not use it?
 
 # READ
+- NEEDS XFCE4 PANEL PROFILES (https://docs.xfce.org/apps/xfce4-panel-profiles/start)
 - SOME LAYOUTS NEED TO HAVE SOME XFCE PLUGINS.
 - HAVEN'T TEST IT IN ANOTHER COMPUTER SO THEY MIGHT NOT WORK CORRECTLY, IF YOU HAVE ANY PROBLEM CONTACT ME.
 
