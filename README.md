@@ -12,7 +12,7 @@ The reason why I'm creating this is because I want to contribute to xfce but I d
 
 ## Layouts
 
-## [UPDATED] 1. GNOME2
+## 1. GNOME2
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/GNOME2/GNOME2-1.png?raw=true)
 
@@ -21,7 +21,7 @@ Tries to mimic the Gnome2 layout.
 Requires: 
  - Places plugin (https://docs.xfce.org/panel-plugins/xfce4-places-plugin)
 
-## [UPDATED] 2. Unity
+## 2. Unity
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/Unity/unity-1.png?raw=true)
 
@@ -30,7 +30,7 @@ Tries to mimic the Unity style, doesn't include a global menu like unity did.
 Requires:
  - Docklike Taskbar (https://github.com/nsz32/docklike-plugin)
 
-## [UPDATED] 3. W10
+## 3. W10
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/W10/W10-1.png?raw=true)
 
@@ -39,13 +39,13 @@ Tries to mimic the W10 style.
 Requires:
  - Docklike Taskbar (https://github.com/nsz32/docklike-plugin)
 
-## [UPDATED] 4. WXP
+## 4. WXP
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/WXP/WXP-1.png?raw=true)
 
 Tries to mimic the WXP style.
 
-## [NEW] 5. ElementaryOs style
+## 5. ElementaryOs style
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/elementary/elementary-1.png?raw=true)
 
@@ -56,25 +56,24 @@ Requires:
 
 Note: You may need to add plank to the startup
 
+## [NEW] 6. GNOME3
 
+![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/GNOME3/gnome3-1.png?raw=true)
 
-## TODO
+Tries to mimic the GNOME3 style.
 
-1. Add more layouts like:
-  - Mac?
-  - Custom?
+Requires:
+  - Xfdashboard (https://github.com/gmc-holle/xfdashboard)
+
+Note: You can add Xfdashboard to your Super key in the keyboard shortcuts, if you are going to stop using this layout please remove it so it doesn't interference with Whisker Menu.
+
+## IDEAS
+
+1. Add more layouts.
 
 Not sure
-
-2. GUI for layouts, (installs, updates, apply custom icons/GTK themes?)
+2. GUI to manage layouts, (installs, updates, apply custom icons/GTK themes?)
   - Example: https://github.com/QaldeK/geox-tweak-xfce
-
-## DONE
-
-1. Need to add the plugins necessary for the layout to work.
-2. Add more layouts like:
-  - ElementaryOs
-3. Make some tweaks to the layouts.
 
 
 
