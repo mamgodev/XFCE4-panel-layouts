@@ -21,7 +21,7 @@ Tries to mimic the Gnome2 layout.
 Requires: 
  - Places plugin (https://docs.xfce.org/panel-plugins/xfce4-places-plugin)
 
-## 2. Unity
+## [UPDATED] 2. Unity
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/Unity/unity-1.png?raw=true)
 
