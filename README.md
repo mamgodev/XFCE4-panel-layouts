@@ -45,18 +45,21 @@ Requires:
 
 Tries to mimic the WXP style.
 
-## 5. ElementaryOs style
+## [UPDATED] 5. ElementaryOs style
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/elementary/elementary-1.png?raw=true)
 
 Tries to mimic the elementaryOs style.
 
 Requires:
+ - Docklike Taskbar (https://github.com/nsz32/docklike-plugin)
+
+You could also use:
  - Plank (https://github.com/ricotz/plank)
 
 Note: You may need to add plank to the startup
 
-## [NEW] 6. GNOME3
+## 6. GNOME3
 
 ![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/GNOME3/gnome3-1.png?raw=true)
 
