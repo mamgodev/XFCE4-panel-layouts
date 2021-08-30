@@ -70,6 +70,14 @@ Requires:
 
 Note: You can add Xfdashboard to your Super key in the keyboard shortcuts, if you are going to stop using this layout please remove it so it doesn't interference with Whisker Menu.
 
+## [NEW] EXPERIMENTAL 7. HAIKUBE
+
+![alt text](https://raw.githubusercontent.com/shinixxx/XFCE4-panel-layouts/master/HaikuBe/haikube-1.png?raw=true)
+
+Tries to mimic the Haiku/BeOS desktop layout. Idea from reddit /u/sleeplimited.
+
+Note: This layout is for fun and to try new things. Doubt someone would use it.
+
 ## IDEAS
 
 1. Add more layouts.
